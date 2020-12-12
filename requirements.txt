@@ -1,0 +1,4 @@
+yeelight==0.5.1
+SpeechRecognition==3.8.1
+ipywidgets==7.5.1
+colour==0.1.5
