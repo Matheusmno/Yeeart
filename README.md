@@ -1,7 +1,7 @@
 # Yeeart
  Explore mais de sua lâmpada Yeelight multicores com este incrível app para Jupyter Notebooks!
 
-![tex](https://github.com/Matheusmno/Yeeart/blob/master/Maggie..JPG?raw=true)
+![tex](https://github.com/Matheusmno/Yeeart/blob/master/images/Maggie..JPG?raw=true)
 
 
 # To-do list:
