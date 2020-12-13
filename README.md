@@ -29,4 +29,4 @@ Obrigado por se interessar pelo aplicativo! Espero que tenha uma experiência di
 
 Caso tenha alguma recomendação de como otimizar o código, estou sempre aberto às críticas. Por favor, me envie um e-mail com a sua sugestão! Será muito bem-vinda.
 
-![tex](https://github.com/Matheusmno/Yeeart/blob/master/images/Maggie.1.jpg?raw=true)
+![tex](https://github.com/Matheusmno/Yeeart/blob/master/images/Maggie.1.JPG?raw=true)
